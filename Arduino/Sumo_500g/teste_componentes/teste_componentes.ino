@@ -1,6 +1,6 @@
 
 #include <SoftwareSerial.h>
-
+//SAUHSUHAUSHUAHSHUA FJISDIFJSDIJFSD
 #define pinLinhaFD A0 // pino de detector de linha FD
 #define pinLinhaFE A1 // pino de detector de linha FE
 #define pinLinhaT A2  // pino de detector de linha Tras
